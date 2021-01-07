@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import MainFormC from './MainFormC';
 import MainSummary from './MainSummary';
-import FEATURES from './Features';
+import FEATURES from './FEATURES';
 
 // Normalizes string as a slug - a string that is safe to use
 // in both URLs and html attributes
